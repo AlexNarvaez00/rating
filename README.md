@@ -1,3 +1,20 @@
+# Instalación para el desarrollo.
+
+Cloanción del proyecto.
+```bash
+git clone https://github.com/AlexNarvaez00/rating.git
+```
+
+Instalación de las dependencias.
+```bash
+npm run installl
+```
+
+Ejecución del servidor de desarrollo.
+```
+npm run dev
+```
+
 # Descripción
 
 Desafío: Desarrollo de una encuesta en React con preguntas y valoraciones
